@@ -1,6 +1,6 @@
 <img align="center" alt="Edwardooo" width="1000" src ="https://giffiles.alphacoders.com/116/11664.gif"/>
 <h1 align="center">Hi 👋, I'm Sami</h1>
-<h3 align="center"> I'm driven by the desire to make data-driven decisions and innovate in diverse industries. Let's connect and explore exciting opportunities together!</h3>
+<h3 align="center">Let's connect and explore exciting opportunities together!</h3>
 
 - 📫 How to reach me **s.aridal@enim.ac.ma**
 <BR></BR>
