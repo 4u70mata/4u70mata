@@ -1,4 +1,4 @@
-<img align="center" alt="Edwardooo" width="1000" src ="https://giffiles.alphacoders.com/116/11664.gif"/>
+<!-- <img align="center" alt="Edwardooo" width="1000" src ="https://giffiles.alphacoders.com/116/11664.gif"/>-->
 <h1 align="center">Hi 👋, I'm Sami</h1>
 <h3 align="center">Let's connect and explore exciting opportunities together!</h3>
 
